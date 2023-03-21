@@ -4,5 +4,6 @@
 int main()
 {
     printf("Leonardo da Silva Pinheiro - 202260840040");
+    printf("Nicolas Ranniery da Silva Sousa - 202206840051");
     return 0;
 }
